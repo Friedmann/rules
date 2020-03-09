@@ -1,0 +1,23 @@
+{
+  "name": "rules",
+  "version": "1.0.0",
+  "description": "Esse projeto é baseado no https://www.ruletool.info/",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Friedmann/rules.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Friedmann/rules/issues"
+  },
+  "homepage": "https://github.com/Friedmann/rules#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
